@@ -1,0 +1,5 @@
+services:
+  id2t:
+    build: .
+    volumes:
+      - /tmp/id2t:/mnt
